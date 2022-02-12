@@ -5,4 +5,4 @@
 
 - 🌱 I am currently learning SQL in my spare time, outside of my studies, so I have decided to document my progress here through projects!
 
-- 📫 How to reach me --> feel free to send an email to 'tristthomas10@gmail.com'
+- 📫 How to reach me --> feel free to send an email to tristthomas10@gmail.com
